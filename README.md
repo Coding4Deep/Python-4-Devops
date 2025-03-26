@@ -1,9 +1,9 @@
 # 🐍 Python for DevOps: A 17-Day Learning Plan
 
 ## 📅 Day 1: Introduction to Python, Installation & Configuration
-### ✅ Introduction to Python and its role in DevOps  
-### ✅ Installing Python and setting up a development environment  
-### ✅ Writing your first Python program  
+### 🔹 Introduction to Python and its role in DevOps  
+### 🔹 Installing Python and setting up a development environment  
+### 🔹 Writing your first Python program  
 
 ---
 
@@ -134,3 +134,4 @@
 ---
 
 🚀 **Happy Learning!** 🎉
+
